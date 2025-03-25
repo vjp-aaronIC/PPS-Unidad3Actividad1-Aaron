@@ -48,6 +48,6 @@ Dentro del entorno podemos acceder a todos los servicios que hemos levantado des
 Si accedemos a cada uno de los apartados debería mostrar algo como lo siguiente:
 
 ![](imagenes/img_php.png)
-![](imaganes/img_sql.png)
+![](imagenes/img_sql.png)
 ![](imagenes/img_test_sql.png)
 ![](imagenes/img_test_db.png)
